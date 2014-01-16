@@ -55,3 +55,4 @@ center = TRUE
 # write idealised code
 
 pars <- coef(fit)
+pars

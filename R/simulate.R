@@ -44,4 +44,14 @@ niters = 1000
 center = TRUE
 
 
+# ------------------------------------------------
+# 
+# simulate from fitted model....
+# 
+# ------------------------------------------------
 
+# first way: extract model params, formulas and variance matrices
+
+# write idealised code
+
+pars <- coef(fit)

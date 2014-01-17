@@ -25,7 +25,6 @@ loaded via a namespace (and not attached):
 #
 # ------------------------------------
 
-
 # prep
 library(FLCore)
 data(ple4.index)
